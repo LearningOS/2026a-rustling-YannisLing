@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-YannisLing",
-  "commit": "e658800af09ce85e1763dab955cde53ff2f0e43d",
-  "score": 32,
+  "commit": "ae607b8c95fa739e4e24abd79580610392d55b5e",
+  "score": 33,
   "totalScore": 110,
   "exercises": [
     {
@@ -233,9 +233,9 @@
     {
       "name": "structs3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "YannisLing",
-  "runId": "36247178159",
+  "runId": "36259900472",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
