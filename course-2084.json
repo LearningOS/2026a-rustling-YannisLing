@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-YannisLing",
-  "commit": "415a3acece6be7c60f7ea4a5a423ccbc365c41b0",
-  "score": 46,
+  "commit": "113b69d463b8bcb147f7f431b273a3207dc860b6",
+  "score": 47,
   "totalScore": 110,
   "exercises": [
     {
@@ -331,9 +331,9 @@
     {
       "name": "quiz2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "options1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "YannisLing",
-  "runId": "36326814355",
+  "runId": "36418091339",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
